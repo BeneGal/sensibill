@@ -1,0 +1,40 @@
+{
+	"id": "123456",
+	"date": "Fri, 16 Feb 2018 00:57:02 GMT",
+	"postedDate": "Fri, 16 Feb 2018 00:57:02 GMT",
+	"amount": 234.44,
+	"currencyCode": "CAD",
+	"summary": "Shoes",
+	"maskedAccountNumber": "2020332",
+	"merchantName": "ASOS"
+},
+{
+	"id": "123456asdv",
+	"date": "01/04/18",
+	"postedDate": "01/04/18",
+	"amount": 9.15,
+	"currencyCode": "CAD",
+	"summary": "Groceries",
+	"maskedAccountNumber": "2020332a",
+	"merchantName": "IGA"
+},
+{
+	"id": "123456qqq",
+	"date": "12/06/2017",
+	"postedDate": "12/06/2017",
+	"amount": 51.59,
+	"currencyCode": "CAD",
+	"summary": "Clothing",
+	"maskedAccountNumber": "2020332b",
+	"merchantName": "Old Navy"
+},
+{
+	"id": "123456aaa",
+	"date": "01/05/2018",
+	"postedDate": "01/05/2018",
+	"amount": 14.68,
+	"currencyCode": "CAD",
+	"summary": "Pharmacy",
+	"maskedAccountNumber": "2020332c",
+	"merchantName": "Pure Integrative Pharmacy"
+}
