@@ -1,4 +1,4 @@
-{
+[{
 	"id": "123456",
 	"date": "Fri, 16 Feb 2018 00:57:02 GMT",
 	"postedDate": "Fri, 16 Feb 2018 00:57:02 GMT",
@@ -37,4 +37,4 @@
 	"summary": "Pharmacy",
 	"maskedAccountNumber": "2020332c",
 	"merchantName": "Pure Integrative Pharmacy"
-}
+}]
